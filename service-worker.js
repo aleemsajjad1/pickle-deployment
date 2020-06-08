@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pickle-deployment/precache-manifest.309f2d95c65c69f69e895a540e41fb18.js"
+  "/pickle-deployment/precache-manifest.80cf8126e582ae7cc99731d048c27ffc.js"
 );
 
 self.addEventListener('message', (event) => {

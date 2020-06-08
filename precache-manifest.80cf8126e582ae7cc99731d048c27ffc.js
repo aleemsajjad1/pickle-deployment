@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "efdf55b85c563fa7f35f4ddd48b21298",
+    "revision": "d0b7a4dd7c825cd47feb1e639ef165a2",
     "url": "/pickle-deployment/index.html"
   },
   {
-    "revision": "7362505eccd53bb586ed",
+    "revision": "a19569d2c33a6da3ff7b",
     "url": "/pickle-deployment/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "99d21af130fa8239884e",
+    "revision": "54bfffb77603d42c993e",
     "url": "/pickle-deployment/static/css/main.ea273115.chunk.css"
   },
   {
-    "revision": "7362505eccd53bb586ed",
-    "url": "/pickle-deployment/static/js/2.e95f6d40.chunk.js"
+    "revision": "a19569d2c33a6da3ff7b",
+    "url": "/pickle-deployment/static/js/2.a9404c19.chunk.js"
   },
   {
     "revision": "4386012a6d334684338618496b7aac20",
-    "url": "/pickle-deployment/static/js/2.e95f6d40.chunk.js.LICENSE.txt"
+    "url": "/pickle-deployment/static/js/2.a9404c19.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "99d21af130fa8239884e",
-    "url": "/pickle-deployment/static/js/main.87da8af3.chunk.js"
+    "revision": "54bfffb77603d42c993e",
+    "url": "/pickle-deployment/static/js/main.3c03161b.chunk.js"
   },
   {
     "revision": "b4ba9f1b3d50e4556f13",
